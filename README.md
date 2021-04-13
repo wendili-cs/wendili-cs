@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<details>
+  <summary>My GitHub Stats</summary>
+  <br>
+  
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wendili-cs&show_icons=true&hide_title=false&count_private=true&hide=issues" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendili-cs&layout=compact" alt="Wendi's Github Stats" />
+</p>
+</details>
 <!--
 **wendili-cs/wendili-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
