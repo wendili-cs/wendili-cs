@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, nice to meet you! 👋
 
 <details>
   <summary>My GitHub Stats</summary>
