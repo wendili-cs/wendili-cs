@@ -1,4 +1,4 @@
-### Hi there, nice to meet you! 👋
+### Hi there, nice to meet you! 👋 ![]( https://visitor-badge.glitch.me/badge?page_id=wendili-cs.homepage)
 
 <details>
   <summary>My GitHub Stats</summary>
